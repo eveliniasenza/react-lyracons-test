@@ -1,0 +1,9 @@
+.small-card {
+  background-color: lightgoldenrodyellow !important;
+  cursor: pointer;
+  width: 100%;
+  height: 190px;
+  text-align: center;
+  font-size: large;
+  font-family: "Apple Braille";
+}

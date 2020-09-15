@@ -1,0 +1,15 @@
+.product-card {
+  background-color: navajowhite !important;
+  box-shadow: lightgrey !important;
+  width: 100%;
+  height: 396px;
+  text-align: center;
+  font-size: large;
+  font-family: "Apple Braille";
+}
+
+.btn-2 {
+  background-color: white !important;
+  border: 1px solid grey !important;
+  margin-top: 50px !important;
+}
